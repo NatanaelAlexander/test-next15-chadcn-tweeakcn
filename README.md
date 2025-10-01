@@ -8,4 +8,4 @@ pnpm run dev
 
 ## deploy en:
 
-https://vercel.com/natanaelalexanders-projects/test-next15-chadcn-tweeakcn
+https://test-next15-chadcn-tweeakcn.vercel.app/
